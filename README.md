@@ -157,4 +157,4 @@ El proyecto incluye configuración optimizada para desarrollo rápido:
 
 ---
 
-**Desarrollado como proyecto académico para UDV - Aplicación de Hojas de Estilo**
+**Desarrollado como proyecto académico para UDV - Aplicación de Hojas de Estilo, por Rodrigo Herrera, Carne 202102603**
